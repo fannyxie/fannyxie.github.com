@@ -1,99 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>My Octopress Blog</title>
-  <meta name="author" content="Your Name">
-
-  
-  <meta name="description" content="这并不是一本学习指导书，而是一本普通人的个人奋斗史。作者只比我大两岁，勉强算是同龄人吧，而且她所就读过的北京第二外国语学院离我所住的地方仅一站公交之遥。其实这本书写得并不是很好，全是流水账，而且文笔也不见得优美，但是它很真实，真实地记录下一位同龄人如何从浑浑噩噩的生活中顿悟， &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://fannyxie.github.com/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="My Octopress Blog" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">My Octopress Blog</a></h1>
-  
-    <h2>A blogging framework for hackers.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:fannyxie.github.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://fannyxie.github.com/atom.xml" rel="self"/>
+  <link href="http://fannyxie.github.com/"/>
+  <updated>2013-01-07T22:32:22+08:00</updated>
+  <id>http://fannyxie.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2013/01/07/read-the-book-kaolas-english-study-note/">&#8216;Read the Book: Kaola&#8217;s English Study Note&#8217;</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2013-01-07T21:58:00+08:00" pubdate data-updated="true">Jan 7<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><a href="http://www.amazon.cn/gp/product/B008QM240S/ref=as_li_ss_tl?ie=UTF8&amp;tag=zhlwish-23&amp;linkCode=as2&amp;camp=536&amp;creative=3132&amp;creativeASIN=B008QM240S"><img src="http://img3.douban.com/lpic/s7653652.jpg" alt="" /></a></p>
+  <entry>
+    <title type="html"><![CDATA['Read the book: Kaola's English study note']]></title>
+    <link href="http://fannyxie.github.com/blog/2013/01/07/read-the-book-kaolas-english-study-note/"/>
+    <updated>2013-01-07T21:58:00+08:00</updated>
+    <id>http://fannyxie.github.com/blog/2013/01/07/read-the-book-kaolas-english-study-note</id>
+    <content type="html"><![CDATA[<p><a href="http://www.amazon.cn/gp/product/B008QM240S/ref=as_li_ss_tl?ie=UTF8&amp;tag=zhlwish-23&amp;linkCode=as2&amp;camp=536&amp;creative=3132&amp;creativeASIN=B008QM240S"><img src="http://img3.douban.com/lpic/s7653652.jpg" alt="" /></a></p>
 
 <p>这并不是一本学习指导书，而是一本普通人的个人奋斗史。作者只比我大两岁，勉强算是同龄人吧，而且她所就读过的北京第二外国语学院离我所住的地方仅一站公交之遥。其实这本书写得并不是很好，全是流水账，而且文笔也不见得优美，但是它很真实，真实地记录下一位同龄人如何从浑浑噩噩的生活中顿悟，并一步一步地迈向自己的梦想。</p>
 
@@ -129,69 +54,7 @@
 
 
 <p>希望明年的今天再来回顾时，能够骄傲地说自己做到了。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/01/07/read-the-book-kaolas-english-study-note/">&#8216;Read the book: Kaola&#8217;s English study note&#8217;</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Your Name -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
